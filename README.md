@@ -3,7 +3,7 @@ TP 8 Frizkia (Fakhri Rizkiana)
 
 # Janji
 Saya Fakhri Rizkiana Sya'ban Kusnendar dengan NIM 2405534 mengerjakan<br> 
-TP 6 dalam mata kuliah Desain dan Pemrograman<br>
+TP 8 dalam mata kuliah Desain dan Pemrograman<br>
 Berorientasi Objek untuk keberkahanNya maka saya tidak<br>
 melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.<br>
 
